@@ -47,7 +47,6 @@ Depois de criar o repositório, para começar a modificá-lo e/ou contribuir com
 3. Abra o terminal.
 4. Altere o diretório de trabalho atual para o local que deseja ter o diretório clonado.
 5. Digite `git clone` e cole a URL que você copiou anteriormente:
-
 ```
 git clone git@github.com:NOME-DE-USUARIO/REPOSITORIO.git
 ```
@@ -56,19 +55,16 @@ git clone git@github.com:NOME-DE-USUARIO/REPOSITORIO.git
 Proto, com isso você acaba de clonar um repositório. Para mais informações sobre a clonagem de arquivos, acesse a [documentação oficial](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository).
 
 Com o repositório clonado, você precisa navegar até a pasta local, usando o comando :
-
 ```
 cd REPOSITORIO
 ```
 
 Estando na pasta do repositório, basta instalar as dependências do projeto utilizando o comando:
-
 ```
 poetry install
 ```
 
 Ele irá instalar todas as dependências contidas no arquivo `pyproject.toml`. Depois disso basta ativar o ambiente virtual criado pelo Poetry utilizando o comando:
-
 ```
 poetry shell
 ```
