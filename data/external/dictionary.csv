@@ -1,0 +1,8 @@
+variavel,descricao,tipo,subtipo
+species,Espécie de ave,qualitativa,nominal
+island,Ilha onde a ave foi observada,qualitativa,nominal
+bill_length_mm,Comprimento do bico de ave em milímetros,quantitativa,contínua
+bill_depth_mm,Profundidade do bico da ave em milímetros,quantitativa,contínua
+flipper_length_mm,Comprimento da nadadeira da ave em milímetros,quantitativa,contínua
+body_mass_g,Massa corporal da ave em gramas,quantitativa,contínua
+sex,Sexo da ave (Male ou Female).,qualitativa,nominal
