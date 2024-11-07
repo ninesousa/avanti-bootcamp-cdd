@@ -1,5 +1,10 @@
 # < Data palmerpenguins >
 
+<div style="text-align: center;">
+    <img src="https://github.com/allisonhorst/palmerpenguins/raw/main/man/figures/lter_penguins.png" alt="Os Pinguins da pesquisa palmerpenguins" width="300">
+</div>
+
+
 ## Sobre os Dados
 
 O pacote **palmerpenguins** oferece uma alternativa ao famoso conjunto de dados `iris` para exploração e visualização de dados, com informações sobre pinguins do Arquipélago Palmer, na Antártica.
@@ -24,8 +29,6 @@ O conjunto `penguins` fornece 8 variáveis:
 - **Comprimento da nadadeira** (mm)
 - **Massa corporal** (g)
 - **Sexo** (feminino/masculino)
-- **Ano**
-
 
 ### Requisitos
 
