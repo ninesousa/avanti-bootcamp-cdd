@@ -1,11 +1,13 @@
 # < Data palmerpenguins >
 
-<div style="text-align: center;">
-    <img src="https://github.com/allisonhorst/palmerpenguins/raw/main/man/figures/lter_penguins.png" alt="Os Pinguins da pesquisa palmerpenguins" width="300">
-</div>
+<p align="center">
+  <picture>
+      <img src="https://github.com/allisonhorst/palmerpenguins/raw/main/man/figures/lter_penguins.png" alt="Os Pinguins da pesquisa palmerpenguins" width="300">
+  </picture>
+</p>
 
 
-## Sobre os Dados
+## Analise e Predição de Dados
 
 O pacote **palmerpenguins** oferece uma alternativa ao famoso conjunto de dados `iris` para exploração e visualização de dados, com informações sobre pinguins do Arquipélago Palmer, na Antártica.
 
@@ -29,6 +31,21 @@ O conjunto `penguins` fornece 8 variáveis:
 - **Comprimento da nadadeira** (mm)
 - **Massa corporal** (g)
 - **Sexo** (feminino/masculino)
+
+## Metodologia
+
+A metodologia que será adotada para a análise e predição de pinguins do Arquipélago Palmer, segue o ciclo CRISP-DM (Cross Industry Standard Process for Data Mining), um processo estruturado amplamente utilizado em projetos de mineração de dados e análise preditiva. O CRISP-DM é composto por:
+1. Entendimento de negócio
+2. Entendimento de dados
+3. Preparação dos dados
+4. Modelagem
+
+
+## Resultados Esperados
+
+Espero descrever algumas das principais variáveis dos pinguins e desenvolver um modelo preditivo com base nos dados fornecidos. O projeto incluirá a geração de gráficos, proporcionando uma visão mais clara das relações entre diferentes fatores.
+
+
 
 ### Requisitos
 
