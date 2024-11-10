@@ -1,10 +1,11 @@
 # < Data palmerpenguins >
 
-<p align="center">
-  <picture>
-      <img src="https://github.com/allisonhorst/palmerpenguins/raw/main/man/figures/lter_penguins.png" alt="Os Pinguins da pesquisa palmerpenguins" width="300">
-  </picture>
-</p>
+<picture>
+  <img src="https://github.com/allisonhorst/palmerpenguins/raw/main/man/figures/lter_penguins.png" 
+       alt="Os Pinguins da pesquisa palmerpenguins" 
+       width="600" 
+       style="display: block; margin: auto;">
+</picture>
 
 
 ## Analise e Predição de Dados
