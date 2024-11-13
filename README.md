@@ -7,6 +7,8 @@
        style="display: block; margin: auto;">
 </picture>
 
+### Artwork
+You can download palmerpenguins art (useful for teaching with the data) in vignette("art"). If you use this artwork, please cite with: “Artwork by @allison_horst”.
 
 ## Analise e Predição de Dados
 
@@ -21,7 +23,7 @@ O pacote **palmerpenguins** contém dois conjuntos de dados:
 
 Ambos os conjuntos contêm medições de 344 pinguins, pertencentes a três espécies, coletados em três ilhas diferentes no Arquipélago Palmer.
 
-### Conjunto de Dados `penguins`
+## Conjunto de Dados `penguins`
 
 O conjunto `penguins` fornece 8 variáveis:
 
@@ -41,11 +43,12 @@ A metodologia que será adotada para a análise e predição de pinguins do Arqu
 3. Preparação dos dados
 4. Modelagem
 
-
 ## Resultados Esperados
 
 Espero descrever algumas das principais variáveis dos pinguins e desenvolver um modelo preditivo com base nos dados fornecidos. O projeto incluirá a geração de gráficos, proporcionando uma visão mais clara das relações entre diferentes fatores.
 
+
+--------
 
 
 ### Requisitos
